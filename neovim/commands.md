@@ -13,20 +13,22 @@ V = select lines
 
 ```
 
-/your-text = search recursive
+`/<your-string>` = search recursive
 
 ## Macro
 
-q<char> = start recording
+`q<char>` = start recording
 
-q = stop recording
+`q` = stop recording
 
-@<char> = play recording
+`@<char>` = play recording
 
-NOTE: replace <char> with your desired choice of character/letter
+NOTE: replace `<char>` with your desired choice of character/letter
 
-## How to copy to system clipboard 📋 (Linux)
+## How to copy to system clipboard 📋
 
-Ctrl+Shift+c = copy to sys clipboard
+Windows: `Ctrl+c`
+
+Linux: `Ctrl+Shift+c`
 
 +y or *y = copy to sys clipboard

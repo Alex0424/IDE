@@ -27,6 +27,6 @@ NOTE: replace `<char>` with your desired choice of characters/letter
 
 ## Copy to clipboard from Neovim
 
-`+y` = copy to selected text to system clipboard 📋 (Ctrl+C/Ctrl+V)
+`+y` = copy selected text to system clipboard 📋 (Ctrl+C/Ctrl+V)
 
-`*y` = copy to selected text to primary selection (paste with middle mouse button)
+`*y` = copy selected text to primary selection (paste with middle mouse button)

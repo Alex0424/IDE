@@ -13,7 +13,16 @@ V = select lines
 
 ```
 
-`/<your-string>` = search recursive
+## Recursive Search
+
+`/<your-string>` = search
+
+`n` = next word
+
+`N` = previous word
+
+`:noh` = disable marked words temporary
+
 
 ## Macro
 

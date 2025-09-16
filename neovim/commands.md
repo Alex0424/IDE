@@ -23,12 +23,10 @@ V = select lines
 
 `@<char>` = play recording
 
-NOTE: replace `<char>` with your desired choice of character/letter
+NOTE: replace `<char>` with your desired choice of characters/letter
 
-## How to copy to system clipboard 📋
+## Copy to clipboard from Neovim
 
-Windows: `Ctrl+c`
+`+y` = copy to selected text to system clipboard 📋 (Ctrl+C/Ctrl+V)
 
-Linux: `Ctrl+Shift+c`
-
-+y or *y = copy to sys clipboard
+`*y` = copy to selected text to primary selection (paste with middle mouse button)

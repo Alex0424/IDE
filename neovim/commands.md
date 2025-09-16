@@ -17,13 +17,15 @@ V = select lines
 
 ## Macro
 
-qw = start recording
+q<char> = start recording
 
 q = stop recording
 
-@w = play recording
+@<char> = play recording
 
-## How to copy to copy to system clipboard 📋 (Linux)
+NOTE: replace <char> with your desired choice of character/letter
+
+## How to copy to system clipboard 📋 (Linux)
 
 Ctrl+Shift+c = copy to sys clipboard
 

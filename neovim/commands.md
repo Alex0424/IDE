@@ -12,6 +12,16 @@ v = select characters
 V = select lines
 
 ```
+
+## Recursive Search
+
+`/<your-string>` = search
+- `n` = next word
+- `N` = previous word
+- `:noh` = disable marked words temporary
+
+`:grep <pattern>` = grep for pattern
+
 ## File Directory
 
 `Ex` = Explore files
@@ -21,16 +31,6 @@ V = select lines
 `Vex` = Vertical file explorer
 
 `Lex` = Left file explorer
-
-## Recursive Search
-
-`/<your-string>` = search
-
-`n` = next word
-
-`N` = previous word
-
-`:noh` = disable marked words temporary
 
 ### When you're inside the netrw buffer:
 

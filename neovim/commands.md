@@ -2,6 +2,8 @@
 
 ## Default Commands
 
+vim cheatsheat: https://vim.rtorr.com/
+
 ```shell
 
 dw  = delete word

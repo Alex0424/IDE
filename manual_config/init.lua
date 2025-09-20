@@ -3,6 +3,9 @@ vim.opt.relativenumber = true
 vim.opt.number = true
 vim.opt.termguicolors = true
 
+-- clipboard
+vim.opt.clipboard = "unnamedplus"
+
 -- colors
 local green = "#00ff00"
 local blue = "#4da3ff"
